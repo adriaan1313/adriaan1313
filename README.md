@@ -13,7 +13,7 @@ I like these things:
 
 I am ok WITH, but bad AT: ![C#](https://img.shields.io/badge/-C%23-000?&logo=c%20sharp)
 
-I do not like these things: proper languages (and ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP) and *informatica* teachers who say Minecraft was made in Python)
+I do not like these things: proper languages (and *informatica* teachers who say Minecraft was made in Python)
 
 Also, don't look at my private stuff, it's shit... but you probably already knew that.
 
